@@ -1,0 +1,49 @@
+.book {
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.cover {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: goldenrod;
+  font-size: 24px;
+  margin: 0;
+}
+
+.pages {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.page {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.student-name {
+  color: green;
+  font-size: 20px;
+  margin: 0;
+}
+
+.student-info {
+  margin: 10px 0;
+  color: indianred;
+  font-size: 16px;
+}
